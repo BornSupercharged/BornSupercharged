@@ -20,7 +20,7 @@ Extensive hands-on experience building platforms from the ground up, creating ne
 ### Cloud Architect, Systems Administrator, DevOps
 👉 Azure DevOps Engineer, ARM Templates, APIM, App Services, VMSS, App Gateway, Azure Gallery listings, DNS, Azure AD <br>
 👉 Provisioning, monitoring and failover automation scripting with Python and Bash integrated to Azure CLI & RESTful APIs <br>
-👉 Amazon S3, Docker, Vagrance/VirtualBox, Vultr VMs, Digital Ocean droplets, Web Hosting, SSH, RDP, JIT Access <br>
+👉 Amazon S3, Docker, Vagrant/VirtualBox, Vultr VMs, Digital Ocean droplets, Web Hosting, SSH, RDP, JIT Access <br>
 👉 Extensive experience architecting + developing in Azure MySQL HA/Percona/Maria, MSSQL Server & PostgreSQL RDBMS <br>
 👉 ShiftLeft Security, CISOfy Lynis Enterprise, Wazuh/Kibana, Uptime Kuma, SPF & DKIM, DMARC Compliance <br>
 
