@@ -4,8 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/BornSupercharged)
 
-<h1 align="center">Your Friendly Neighborhood Web Developer 😊 </h1>
-<!-- <h2 align="center">Software Engineer / Database Admin / Cloud Architect</h2> -->
+<h1 align="center">Software Engineer / Database Admin / Cloud Architect</h1>
+<!-- <h2 align="center">Your Friendly Neighborhood Web Developer 😊 </h2> -->
 <h3 align="center">Oracle, IBM & Microsoft Azure Certified</h3>
 
 Hands-on app dev leader with a strong background in financial, e-commerce, hosting, and member-site verticals. 
