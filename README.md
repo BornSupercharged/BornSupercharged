@@ -1,15 +1,16 @@
+<!--
 <img style="height: 500px;width: 1057px" src="https://www.linkpicture.com/q/Black-Blue-Geometric-Tips-Business-Facebook-Cover.png" type="image">
+-->
 
 ![Profile views](https://gpvc.arturio.dev/BornSupercharged)
 
-# Hi there 😊 This is Thomas Whitecotton
+<h1 align="center">Your Friendly Neighborhood Web Developer 😊 </h1>
+<!-- <h2 align="center">Software Engineer / Database Admin / Cloud Architect</h2> -->
+<h3 align="center">Oracle & Azure Certified with 2 Master's Degrees</h3>
 
-### SOFTWARE ENGINEERING EXECUTIVE & TECHNOLOGIST
-
-Transformational and influential software engineering and leader with a strong background in financial, e-commerce,
-hosting, and member-site verticals. Team player able to both lead the way by example and handle escalations for urgent
-resolutions. Extensive hands-on experience building platforms from the ground up, creating new functionalities within
-business units, and leveraging emerging technologies for impressive cost s avings and total business gains.
+Hands-on app dev leader with a strong background in financial, e-commerce, hosting, and member-site verticals. 
+Team player able to both lead the way by example and handle escalations for urgent resolutions. 
+Extensive hands-on experience building platforms from the ground up, creating new functionalities within business units, and leveraging emerging technologies for impressive cost savings and total business gains.
 
 ### Highlights
 👉 15 years leading, developing and creating roadmaps for Enterprise Applications in a variety of stacks and platforms <br>
