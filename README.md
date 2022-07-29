@@ -1,4 +1,4 @@
-<img style="height: 300px;width: 1057px" src="https://www.linkpicture.com/q/Black-Blue-Geometric-Tips-Business-Facebook-Cover.png" type="image">
+<img style="height: 500px;width: 1057px" src="https://www.linkpicture.com/q/Black-Blue-Geometric-Tips-Business-Facebook-Cover.png" type="image">
 
 ![Profile views](https://gpvc.arturio.dev/BornSupercharged)
 
