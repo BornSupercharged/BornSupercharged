@@ -6,7 +6,7 @@
 
 <h1 align="center">Your Friendly Neighborhood Web Developer 😊 </h1>
 <!-- <h2 align="center">Software Engineer / Database Admin / Cloud Architect</h2> -->
-<h3 align="center">Oracle & Azure Certified with 2 Master's Degrees</h3>
+<h3 align="center">Oracle, IBM & Microsoft Azure Certified</h3>
 
 Hands-on app dev leader with a strong background in financial, e-commerce, hosting, and member-site verticals. 
 Team player able to both lead the way by example and handle escalations for urgent resolutions. 
