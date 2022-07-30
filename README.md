@@ -13,29 +13,29 @@ Team player able to both lead the way by example and handle escalations for urge
 Extensive hands-on experience building platforms from the ground up, creating new functionalities within business units, and leveraging emerging technologies for impressive cost savings and total business gains.
 
 ### Highlights
-👉 15 years leading, developing and creating roadmaps for Enterprise Applications in a variety of stacks and platforms <br>
-👉 Proven track record managing & improving company infrastructure, hitting goals and roadmap initiatives while enhancing ROI <br>
-👉 Firm believer in business requirement analysis, specifications, documentation and ticket tracking; Confluence, Jira, Zendesk <br>
+:exploding_head: 15 years leading, developing and creating roadmaps for Enterprise Applications in a variety of stacks and platforms <br>
+:money_with_wings: Proven track record managing & improving company infrastructure, hitting goals and roadmap initiatives while enhancing ROI <br>
+:books: Firm believer in business requirement analysis, specifications, documentation and ticket tracking; Confluence, Jira, Zendesk <br>
 
 ### Cloud Architect, Systems Administrator, DevOps
-👉 Azure DevOps Engineer, ARM Templates, APIM, App Services, VMSS, App Gateway, Azure Gallery listings, DNS, Azure AD <br>
-👉 Provisioning, monitoring and failover automation scripting with Python and Bash integrated to Azure CLI & RESTful APIs <br>
-👉 Amazon S3, Docker, Vagrant/VirtualBox, Vultr VMs, Digital Ocean droplets, Web Hosting, SSH, RDP, JIT Access <br>
-👉 Extensive experience architecting + developing in Azure MySQL HA/Percona/Maria, MSSQL Server & PostgreSQL RDBMS <br>
-👉 ShiftLeft Security, CISOfy Lynis Enterprise, Wazuh/Kibana, Uptime Kuma, SPF & DKIM, DMARC Compliance <br>
+:desktop_computer: 	Azure DevOps Engineer, ARM Templates, APIM, App Services, VMSS, App Gateway, Azure Gallery listings, DNS, Azure AD <br>
+:minidisc: Provisioning, monitoring and failover automation scripting with Python and Bash integrated to Azure CLI & RESTful APIs <br>
+:floppy_disk: Amazon S3, Docker, Vagrant/VirtualBox, Vultr VMs, Digital Ocean droplets, Web Hosting, SSH, RDP, JIT Access <br>
+:bulb: Extensive experience architecting + developing in Azure MySQL HA/Percona/Maria, MSSQL Server & PostgreSQL RDBMS <br>
+:chart_with_upwards_trend: ShiftLeft Security, CISOfy Lynis Enterprise, Wazuh/Kibana, Uptime Kuma, SPF & DKIM, DMARC Compliance <br>
 
 ### Full Stack Developer Experience
-👉 PHP 8 + CLI scripting, Laravel 9, Dart & Flutter, Python, Redis, Beanstalkd Message Queue w/Pheanstalk, Cron jobs, Bash <br>
+:hammer_and_wrench: PHP 8 + CLI scripting, Laravel 9, Dart & Flutter, Python, Redis, Beanstalkd Message Queue w/Pheanstalk, Cron jobs, Bash <br>
 👉 Vue.js 3, Inertia.js, React, Node.JS, jQuery, AJAX, JSON/XML, ExtJS, Bootstrap, YUI, FusionCharts, HighCharts <br>
-👉 MVC and ORM under various frameworks including Zend, Symfony, Yii, CodeIgnitor and CakePHP + PDO & ADOdb <br>
-👉 Full CI/CD life cycle implementations, Sentry.IO, QA/QE via UI testing with Selenium & Unit Testing with SimpleTest + phpUnit <br>
-👉 Exceptionally strong analytical thinking, debugging, and problem solving skills in Waterfall, Agile & Hybrid environments <br>
+:microscope: MVC and ORM under various frameworks including Zend, Symfony, Yii, CodeIgnitor and CakePHP + PDO & ADOdb <br>
+:toolbox: Full CI/CD life cycle implementations, Sentry.IO, QA/QE via UI testing with Selenium & Unit Testing with SimpleTest + phpUnit <br>
+:shield: Exceptionally strong analytical thinking, debugging, and problem solving skills in Waterfall, Agile & Hybrid environments <br>
 
 ### APIs & Integrations
-👉 GraphQL, REST, WSDL, SOAP calls using cURL and Postman, ETL and ELT knowledge with Data Warehouses<br>
-👉 SSO integrations (+respective marketplace listings) with Azure AD, Google G-Suite, Okta, and C# LDAP/Active Directory<br>
-👉 VMware vSphere, OnApp, dotBlock, SoftLayer, CloudLinux, eNom, cPanel/WHM, WHMCS, R1Soft CDP, PRTG , AWS S3 storage<br>
-👉 QuickBooks Web Connector & QB Online, Sage Intacct, MFA with Twilio, eBay, PayPal, Authorize.net, World Pay, Google Maps<br>
+:gear: GraphQL, REST, WSDL, SOAP calls using cURL and Postman, ETL and ELT knowledge with Data Warehouses<br>
+:closed_lock_with_key: SSO integrations (+respective marketplace listings) with Azure AD, Google G-Suite, Okta, and C# LDAP/Active Directory<br>
+:round_pushpin: VMware vSphere, OnApp, dotBlock, SoftLayer, CloudLinux, eNom, cPanel/WHM, WHMCS, R1Soft CDP, PRTG , AWS S3 storage<br>
+:shopping_cart: QuickBooks Web Connector & QB Online, Sage Intacct, MFA with Twilio, eBay, PayPal, Authorize.net, World Pay, Google Maps<br>
 
 Hands-on technologist with deep and broad technical capability, and innate passion for technology. Keen eye for
 processes and technology that will drive increased velocity, efficiency, and ultimately, enhanced outcomes. Seamlessly
