@@ -70,7 +70,7 @@ Architected and implemented entire Azure infrastructure, including Azure AD, Azu
 <li>Invoice Automation & OCR using Amazon Textract, Abbyy and XPDF Tools</li>
 <li>Perform troubleshooting and debugging to resolve bugs using Azure App Service with Git release-driven CI/CD.</li>
 <li>Oversee the addition, maintenance and execution of Java Selenium automation testing.</li>
-<li>Install/Upgrade/Configure ePMX, PHP 5.6 to 8.0 and MSSQL on IIS 7/8/8.5 for self-hosted clients.</li>
+<li>Install/Upgrade/Configure ePMX, PHP 5.6 to 8.1 and MSSQL on IIS 8.5 for self-hosted clients.</li>
 </ul>
 
 <sub>Performing extensive business process documentation and improvement:</sub>
