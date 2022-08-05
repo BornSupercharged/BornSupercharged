@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/BornSupercharged)
 
-<h1 align="center">Software Engineer / Database Admin / Cloud Architect</h1>
+<h1 align="center">Senior PHP Developer</h1>
 <!-- <h2 align="center">Your Friendly Neighborhood Web Developer 😊 </h2> -->
 <h3 align="center">Oracle, IBM & Microsoft Azure Certified</h3>
 
