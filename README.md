@@ -45,10 +45,8 @@ navigates CXO communications as well as hands-on technical activities. Promotes 
 #### Chief Technology Officer (Bellwether – Louisville, KY (Remote) )<br>
 <sub>Driving entire roadmap & cost-efficiency efforts for our SaaS offerings, processing client spend of over $18B annually:</sub>
 <ul>
-<li>Integrated with 3rd Party supplier networks to save our clients 8-12% on MRO spend.</li>
 <li>Telemetrics dashboard for continuous monitoring of clients & systems .</li>
-<li>Reduce overhead & maintenance through vendor cost comparisons and legacy server decommissioning .</li>
-<li>LiteSpeed WebServer & PHP 8.0 LSAPI, Zend OpCache and Redis caching improved application speed by up to 80%.</li>
+<li>PHP 8.1 SaaS application development, Redis caching and Azure MySQL PaaS DB.</li>
 </ul>
 
 <sub>Managing cloud infrastructure and DevOps:</sub>
