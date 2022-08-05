@@ -42,7 +42,7 @@ processes and technology that will drive increased velocity, efficiency, and ult
 navigates CXO communications as well as hands-on technical activities. Promotes continuously learning - never settle.
 
 ### CAREER EXPERIENCE
-#### Software Architect & Lead PHP Developer (Bellwether – Louisville, KY (Remote) )<br>
+#### Chief Technology Officer (Bellwether – Louisville, KY (Remote) )<br>
 <sub>Driving entire roadmap & cost-efficiency efforts for our SaaS offerings, processing client spend of over $18B annually:</sub>
 <ul>
 <li>Integrated with 3rd Party supplier networks to save our clients 8-12% on MRO spend.</li>
